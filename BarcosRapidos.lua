@@ -26,7 +26,7 @@ Tab:AddToggle({
 Tab:AddSlider({
 	Name = "Velocidade",
 	Min = 0,
-	Max = 500,
+	Max = 2500,
 	Default = 300,
 	Color = Color3.fromRGB(255,255,255),
 	Increment = 1,
