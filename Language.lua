@@ -1,4 +1,4 @@
-local Lang = {
+_G.AuroraLang = {
     EN = {
         Yes = "Yes",
         No = "No",
