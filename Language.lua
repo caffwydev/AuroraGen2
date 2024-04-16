@@ -270,7 +270,8 @@ _G.AuroraLang = {
                 Stat = "Stats Reset",
                 Tomoe = "Tomoe's Ring",
                 SwordsmanHat = "Swordsman's Hat",
-                BlackCape = "Black Cape"
+                BlackCape = "Black Cape",
+                RSlingshot = "Refined Slingshot"
             },
             Stats = {
                 Sections = {
@@ -559,7 +560,8 @@ _G.AuroraLang = {
                 Stat = "Stats Reset",
                 Tomoe = "Anel Tomoe",
                 SwordsmanHat = "Chapéu do Espadachim",
-                BlackCape = "Capa Preta"
+                BlackCape = "Capa Preta",
+                RSlingshot = "Estilingue Refinado"
             },
             Stats = {
                 Sections = {
