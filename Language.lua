@@ -264,6 +264,8 @@ _G.AuroraLang = {
                 Bisento = "Bisento",
                 SoulCane = "Soul Cane",
                 Race = "Race",
+                RaceC = "Cyborg Race",
+                RaceG = "Ghoul Race",
                 Stat = "Stats Reset"
             },
             Stats = {
@@ -548,6 +550,8 @@ _G.AuroraLang = {
                 Bisento = "Bisento",
                 SoulCane = "Cajado da Alma",
                 Race = "Race",
+                RaceC = "Raça Ciborgue",
+                RaceG = "Raça Ghoul",
                 Stat = "Stats Reset"
             },
             Stats = {
