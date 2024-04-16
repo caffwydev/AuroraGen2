@@ -103,7 +103,9 @@ _G.AuroraLang = {
                 Sections = {
                     Observation = "Observation Farm",
                     CakePrince = "Cake Prince",
-                    Bones = "Bones"
+                    Bones = "Bones",
+                    SS = "Second Sea Misc",
+                    FS = "First Sea Misc"
                 },
                 AutoFarmObservation = "Auto Farm Observation",
                 AutoFarmObservationHop = "Auto Hop",
@@ -385,7 +387,9 @@ _G.AuroraLang = {
                 Sections = {
                     Observation = "Farmar Ken",
                     CakePrince = "Katakuri",
-                    Bones = "Ossos"
+                    Bones = "Ossos",
+                    SS = "Segundo Sea - Outros",
+                    FS = "Primeiro Sea - Outros"
                 },
                 AutoFarmObservation = "Auto Farmar Ken",
                 AutoFarmObservationHop = "Auto Trocar de Servidor",
