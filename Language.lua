@@ -230,6 +230,7 @@ _G.AuroraLang = {
                     Melee = "Melee",
                     Guns = "Guns",
                     Swords = "Swords",
+                    Accessories = "Accessories",
                     Misc = "Others"
                 },
                 Geppo = "Buy Geppo",
@@ -266,7 +267,10 @@ _G.AuroraLang = {
                 Race = "Race",
                 RaceC = "Cyborg Race",
                 RaceG = "Ghoul Race",
-                Stat = "Stats Reset"
+                Stat = "Stats Reset",
+                Tomoe = "Tomoe's Ring",
+                SwordsmanHat = "Swordsman's Hat",
+                BlackCape = "Black Cape"
             },
             Stats = {
                 Sections = {
@@ -552,7 +556,10 @@ _G.AuroraLang = {
                 Race = "Race",
                 RaceC = "Raça Ciborgue",
                 RaceG = "Raça Ghoul",
-                Stat = "Stats Reset"
+                Stat = "Stats Reset",
+                Tomoe = "Anel Tomoe",
+                SwordsmanHat = "Chapéu do Espadachim",
+                BlackCape = "Capa Preta"
             },
             Stats = {
                 Sections = {
