@@ -30,7 +30,8 @@ _G.AuroraLang = {
                 Sections = {
                     Game = "Game",
                     ThirdSea = "Third Sea - Info",
-                    Misc = "Misc"
+                    Misc = "Misc",
+                    Others = "Others"
                 },
                 GameTime = "Game Time",
                 FarmStatus = "Farm Status",
@@ -322,7 +323,8 @@ _G.AuroraLang = {
                 Sections = {
                     Game = "Jogo",
                     ThirdSea = "Terceiro Sea - Informações",
-                    Misc = "Outros"
+                    Misc = "Outros",
+                    Others = "Outros"
                 },
                 GameTime = "Tempo de Jogo",
                 FarmStatus = "Status do Auto Farm",
