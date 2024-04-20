@@ -160,7 +160,7 @@ _G.AuroraLang = {
                 Sections = {
                     FPS = "Performance",
                     GUI = "Interface",
-                    Enhancements = "Gameplay Enhancements",
+                    Enhancements = "Enhancements",
                     Boat = "Boat Mods",
                     LocalPlayer = "Player"
                 },
@@ -463,7 +463,7 @@ _G.AuroraLang = {
                 Sections = {
                     FPS = "Performance",
                     GUI = "Interface",
-                    Enhancements = "Melhoras de Gameplay",
+                    Enhancements = "Melhoras",
                     Boat = "Modificações de Barcos",
                     LocalPlayer = "Jogador"
                 },
