@@ -157,6 +157,9 @@ _G.AuroraLang = {
                 AutoDefeatLaw = "Auto Defeat Law"
             },
             Special = {
+                Sections = {
+                    FPS = "Performance"
+                },
                 Code = "Redeem All Codes",
                 Hop = "Server Hop",
                 DFS = "Devil Fruit Store",
@@ -174,7 +177,10 @@ _G.AuroraLang = {
                 InfDash = "Dash no Cooldown",
                 WaterWalk = "WaterWalk",
                 FFA = "Fast Attack (Forced)",
-                Notifications = "Notifications (Game)"
+                Notifications = "Notifications (Game)",
+                WhiteScreen = "White Screen",
+                DisableMaterials = "Disable Materials",
+                InvisibleMap = "Invisible Map"
             },
             TP = {
                 Sea1 = "Main Sea",
@@ -450,6 +456,9 @@ _G.AuroraLang = {
                 AutoDefeatLaw = "Auto Derrotar Law"
             },
             Special = {
+                Sections = {
+                    FPS = "Performance"
+                },
                 Code = "Resgatar todos os códigos",
                 Hop = "Trocar de Servidor",
                 DFS = "Loja de Fruta",
@@ -467,7 +476,10 @@ _G.AuroraLang = {
                 InfDash = "Dash sem cooldown",
                 WaterWalk = "Andar na Água",
                 FFA = "Modo de Ataque (Forçado)",
-                Notifications = "Notificações (Jogo)"
+                Notifications = "Notificações (Jogo)",
+                WhiteScreen = "White Screen",
+                DisableMaterials = "Disable Materials",
+                InvisibleMap = "Invisible Map"
             },
             TP = {
                 Sea1 = "Sea Principal",
