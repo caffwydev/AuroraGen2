@@ -158,7 +158,11 @@ _G.AuroraLang = {
             },
             Special = {
                 Sections = {
-                    FPS = "Performance"
+                    FPS = "Performance",
+                    GUI = "Interface",
+                    Enhancements = "Gameplay Enhancements",
+                    Boat = "Boat Mods",
+                    LocalPlayer = "Player"
                 },
                 Code = "Redeem All Codes",
                 Hop = "Server Hop",
@@ -457,7 +461,11 @@ _G.AuroraLang = {
             },
             Special = {
                 Sections = {
-                    FPS = "Performance"
+                    FPS = "Performance",
+                    GUI = "Interface",
+                    Enhancements = "Melhoras de Gameplay",
+                    Boat = "Modificações de Barcos",
+                    LocalPlayer = "Jogador"
                 },
                 Code = "Resgatar todos os códigos",
                 Hop = "Trocar de Servidor",
