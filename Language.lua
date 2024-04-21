@@ -165,7 +165,8 @@ _G.AuroraLang = {
                     LocalPlayer = "Player"
                 },
                 Code = "Redeem All Codes",
-                Hop = "Server Hop",
+                Hop = "Hop Empty Server",
+                HopFull = "Hop Full Server",
                 DFS = "Devil Fruit Store",
                 AWK = "Awakening Ui",
                 Titles = "Titles",
@@ -468,7 +469,8 @@ _G.AuroraLang = {
                     LocalPlayer = "Jogador"
                 },
                 Code = "Resgatar todos os códigos",
-                Hop = "Trocar de Servidor",
+                Hop = "Servidor Vazio",
+                HopFull = "Servidor Cheio",
                 DFS = "Loja de Fruta",
                 AWK = "Despertar da Fruta",
                 Titles = "Titulos",
