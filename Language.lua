@@ -302,7 +302,7 @@ _G.AuroraLang = {
             }
         },
         Notifications = {
-            Title = _G.ABRANCH .. " - 2nd gen",
+            Title = _G.ABRANCH .. " v2",
             Loaded = "Loaded Successfully!",
             CLoaded = "Config Loaded.",
             CSaved = "Config Saved.",
@@ -612,7 +612,7 @@ _G.AuroraLang = {
             }
         },
         Notifications = {
-            Title = _G.ABRANCH .. " - Segunda Geração",
+            Title = _G.ABRANCH .. " v2",
             Loaded = "Script Carregado!",
             CLoaded = "Configuração Carregada.",
             CSaved = "Configuração Salva.",
