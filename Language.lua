@@ -68,10 +68,16 @@ _G.AuroraLang = {
                 MasteryWait = "Waiting for Mastery"
             },
             Items = {
+                Sections = {
+                    TTK = "True Triple Katana",
+                    Pole = "Pole v1"
+                },
                 AutoBuyHaki = "Auto Buy Haki",
                 AutoLegendSword = "Auto Buy Legend Sword",
-                AutoLegendHop = "+ Server Hop",
-                Saber = "Auto Saber"
+                AutoLegendHop = "Server Hop",
+                Saber = "Auto Saber",
+                AutoPole = "Auto Pole",
+                AutoPoleHop = "Server Hop"
             },
             Config = {
                 Sections = {
@@ -373,10 +379,16 @@ _G.AuroraLang = {
                 MasteryWait = "Mastria Insuficiente"
             },
             Items = {
+                 Sections = {
+                    TTK = "Verdadeira Katana Tripla",
+                    Pole = "Pole v1"
+                },
                 AutoBuyHaki = "Auto Comprar Cor de Haki",
                 AutoLegendSword = "Auto Comprar Espada Lendária",
-                AutoLegendHop = "Auto Trocar de Servidor",
-                Saber = "Auto Saber"
+                AutoLegendHop = "Auto Servidor",
+                Saber = "Auto Saber",
+                AutoPole = "Auto Pole",
+                AutoPoleHop = "Auto Servidor"
             },
             Config = {
                 Sections = {
