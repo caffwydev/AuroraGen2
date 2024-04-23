@@ -2883,7 +2883,7 @@ local aa = {
             local k = ai('ImageLabel', {
                 AnchorPoint = Vector2.new(0, 0.5),
                 Position = UDim2.new(0, -7, 0.5, 0),
-                Size = UDim2.fromOffset(30, 30),
+                Size = UDim2.fromOffset(40, 40),
                 Image = 'http://www.roblox.com/asset/?id=13720914792',
                 ThemeTag = {
                     ImageColor3 = 'Accent'
