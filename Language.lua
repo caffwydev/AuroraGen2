@@ -77,7 +77,8 @@ _G.AuroraLang = {
                 AutoLegendHop = "Server Hop",
                 Saber = "Auto Saber",
                 AutoPole = "Auto Pole",
-                AutoPoleHop = "Server Hop"
+                AutoPoleHop = "Server Hop",
+                AutoRaceV2 = "Auto Race v2"
             },
             Config = {
                 Sections = {
@@ -388,7 +389,8 @@ _G.AuroraLang = {
                 AutoLegendHop = "Auto Servidor",
                 Saber = "Auto Saber",
                 AutoPole = "Auto Pole",
-                AutoPoleHop = "Auto Servidor"
+                AutoPoleHop = "Auto Servidor",
+                AutoRaceV2 = "Auto Raça v2"
             },
             Config = {
                 Sections = {
