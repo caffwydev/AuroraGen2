@@ -44,6 +44,11 @@ _G.AuroraLang = {
                 DisableFloat = "Disable Float"
             },
             Awakening = {
+                Sections = {
+                    Mirage = "Mirage",
+                    Trial = "Trial",
+                    Moon = "Moon"
+                },
                 MirageFound = "Mirage Found!",
                 MirageFoundPrompt = "Mirage Found! Teleport?",
                 MirageNotFound = "Mirage Not Found!",
@@ -51,6 +56,7 @@ _G.AuroraLang = {
                 Temple = "Temple of Time",
                 MirageCheck = "Mirage Status",
                 MirageWarn = "Mirage Notification",
+                MirageTeleport = "Mirage Teleport",
                 FullMoonWarn = "Full Moon Notification",
                 GearTP = "Teleport to Gear",
                 FullMoon = "Full Moon!",
@@ -356,6 +362,11 @@ _G.AuroraLang = {
                 DisableFloat = "Desabilitar Float"
             },
             Awakening = {
+                Sections = {
+                    Mirage = "Miragem",
+                    Trial = "Trial",
+                    Moon = "Lua"
+                },
                 MirageFound = "Mirage Encontrada!",
                 MirageFoundPrompt = "Mirage Encontrada! Teleportar?",
                 MirageNotFound = "Mirage Não Encontrada!",
@@ -363,6 +374,7 @@ _G.AuroraLang = {
                 Temple = "Templo do Tempo",
                 MirageCheck = "Status da Mirage",
                 MirageWarn = "Notificação da Miragem",
+                MirageTeleport = "Mirage Teleport",
                 FullMoonWarn = "Notificação da Lua Cheia",
                 GearTP = "Teleportar para Engrenagem",
                 FullMoon = "Lua Cheia!",
