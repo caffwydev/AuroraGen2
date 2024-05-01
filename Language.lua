@@ -407,7 +407,8 @@ _G.AuroraLang = {
                 AutoPole = "Auto Pole",
                 AutoPoleHop = "Auto Servidor",
                 AutoRaceV2 = "Auto Raça v2",
-                AutoDeathStep = "Auto Passo Mortal"
+                AutoDeathStep = "Auto Passo Mortal",
+                AutoDeathStepHop = "Passo Mortal + Hop",
             },
             Config = {
                 Sections = {
