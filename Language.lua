@@ -86,7 +86,8 @@ _G.AuroraLang = {
                 AutoPole = "Auto Pole",
                 AutoPoleHop = "Server Hop",
                 AutoRaceV2 = "Auto Race v2",
-                AutoDeathStep = "Auto Death Step"
+                AutoDeathStep = "Auto Death Step",
+                AutoDeathStepHop = "Death Step + Hop",
             },
             Config = {
                 Sections = {
