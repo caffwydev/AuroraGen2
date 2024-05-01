@@ -76,7 +76,8 @@ _G.AuroraLang = {
             Items = {
                 Sections = {
                     TTK = "True Triple Katana",
-                    Pole = "Pole v1"
+                    Pole = "Pole v1",
+                    Melee = "Melee"
                 },
                 AutoBuyHaki = "Auto Buy Haki",
                 AutoLegendSword = "Auto Buy Legend Sword",
@@ -84,7 +85,8 @@ _G.AuroraLang = {
                 Saber = "Auto Saber",
                 AutoPole = "Auto Pole",
                 AutoPoleHop = "Server Hop",
-                AutoRaceV2 = "Auto Race v2"
+                AutoRaceV2 = "Auto Race v2",
+                AutoDeathStep = "Auto Death Step"
             },
             Config = {
                 Sections = {
@@ -394,7 +396,8 @@ _G.AuroraLang = {
             Items = {
                  Sections = {
                     TTK = "Verdadeira Katana Tripla",
-                    Pole = "Pole v1"
+                    Pole = "Pole v1",
+                    Melee = "Estilo de Luta"
                 },
                 AutoBuyHaki = "Auto Comprar Cor de Haki",
                 AutoLegendSword = "Auto Comprar Espada Lendária",
@@ -402,7 +405,8 @@ _G.AuroraLang = {
                 Saber = "Auto Saber",
                 AutoPole = "Auto Pole",
                 AutoPoleHop = "Auto Servidor",
-                AutoRaceV2 = "Auto Raça v2"
+                AutoRaceV2 = "Auto Raça v2",
+                AutoDeathStep = "Auto Passo Mortal"
             },
             Config = {
                 Sections = {
