@@ -87,7 +87,9 @@ _G.AuroraLang = {
                 AutoPoleHop = "Server Hop",
                 AutoRaceV2 = "Auto Race v2",
                 AutoDeathStep = "Auto Death Step",
-                AutoDeathStepHop = "Death Step + Hop",
+                AutoDeathStepHop = "Death Step Hop",
+                AutoSharkman = "Auto Sharkman",
+                AutoSharkmanHop = "Sharkman Hop"
             },
             Config = {
                 Sections = {
@@ -408,7 +410,9 @@ _G.AuroraLang = {
                 AutoPoleHop = "Auto Servidor",
                 AutoRaceV2 = "Auto Raça v2",
                 AutoDeathStep = "Auto Passo Mortal",
-                AutoDeathStepHop = "Passo Mortal + Hop",
+                AutoDeathStepHop = "Passo Mortal Hop",
+                AutoSharkman = "Auto Sharkman",
+                AutoSharkmanHop = "Sharkman Hop"
             },
             Config = {
                 Sections = {
