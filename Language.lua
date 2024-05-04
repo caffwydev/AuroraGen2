@@ -152,7 +152,8 @@ _G.AuroraLang = {
                 EliteHunter = "Elite Hunter",
                 EliteHop = "Hop Chalice",
                 FarmMaterial = "Farm Material",
-                SelectMaterial = "Select Material"
+                SelectMaterial = "Select Material",
+                Bartilo = "Auto Bartilo"
             },
             Combat = {
                 KillPlayer = "Kill Player (Click)",
@@ -482,7 +483,8 @@ _G.AuroraLang = {
                 EliteHunter = "Elite Hunter",
                 EliteHop = "Procurar Cálice",
                 FarmMaterial = "Farmar Material",
-                SelectMaterial = "Selecionar Material"
+                SelectMaterial = "Selecionar Material",
+                Bartilo = "Auto Bartilo"
             },
             Combat = {
                 KillPlayer = "Matar Player (Beta)",
