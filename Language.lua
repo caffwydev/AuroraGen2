@@ -121,7 +121,8 @@ _G.AuroraLang = {
                 SniperBuy = "Auto Buy Sniper",
                 AutoStore = "Auto Store Fruit",
                 SelectEat = "Select Eat",
-                AutoEat = "Auto Eat"
+                AutoEat = "Auto Eat",
+                AutoCollect = "Auto Collect Fruit"
             },
             Farm = {
                 Sections = {
@@ -462,7 +463,8 @@ _G.AuroraLang = {
                 SniperBuy = "Auto Comprar Fruta",
                 AutoStore = "Auto Guardar Fruta",
                 SelectEat = "Selecionar Fruta",
-                AutoEat = "Auto Comer"
+                AutoEat = "Auto Comer",
+                AutoCollect = "Auto Coletar"
             },
             Farm = {
                 Sections = {
