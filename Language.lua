@@ -71,7 +71,8 @@ _G.AuroraLang = {
                 KaitunMelee = "Auto Melee",
                 NoMoney = "No Money",
                 NoFrag = "No Fragments",
-                MasteryWait = "Waiting for Mastery"
+                MasteryWait = "Waiting for Mastery",
+                NearbyHop = "Hop (player nearby)"
             },
             Items = {
                 Sections = {
@@ -402,7 +403,8 @@ _G.AuroraLang = {
                 KaitunMelee = "Auto Estilo de Luta",
                 NoMoney = "Sem Dinheiro",
                 NoFrag = "Sem Fragmentos",
-                MasteryWait = "Mastria Insuficiente"
+                MasteryWait = "Mastria Insuficiente",
+                NearbyHop = "Anti Reportes (Jogador Próximo)"
             },
             Items = {
                  Sections = {
