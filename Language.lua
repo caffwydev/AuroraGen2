@@ -148,7 +148,11 @@ _G.AuroraLang = {
                 CakePrinceSpawn = "Auto Spawn Cake Prince",
                 CakePrinceKill = "Killing Cake Prince",
                 BonesFarm = "Auto Bones",
-                BonesTrade = "Auto Trade Bones"
+                BonesTrade = "Auto Trade Bones",
+                EliteHunter = "Elite Hunter",
+                EliteHop = "Hop Chalice",
+                FarmMaterial = "Farm Material",
+                SelectMaterial = "Select Material"
             },
             Combat = {
                 KillPlayer = "Kill Player (Click)",
@@ -474,7 +478,11 @@ _G.AuroraLang = {
                 CakePrinceSpawn = "Auto Spawnar Katakuri",
                 CakePrinceKill = "Matando Katakuri",
                 BonesFarm = "Auto Osssos",
-                BonesTrade = "Auto Trocar Ossos"
+                BonesTrade = "Auto Roletar Ossos",
+                EliteHunter = "Elite Hunter",
+                EliteHop = "Procurar Cálice",
+                FarmMaterial = "Farmar Material",
+                SelectMaterial = "Selecionar Material"
             },
             Combat = {
                 KillPlayer = "Matar Player (Beta)",
