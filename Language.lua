@@ -61,7 +61,8 @@ _G.AuroraLang = {
                 GearTP = "Teleport to Gear",
                 FullMoon = "Full Moon!",
                 RequireThirdSea = "Third Sea Required!",
-                Moon = "Moon State"
+                Moon = "Moon State",
+                AutoTrial = "Auto Trial"
             },
             Ai = {
                 KaitunFull = "Full Farm",
@@ -403,7 +404,8 @@ _G.AuroraLang = {
                 GearTP = "Teleportar para Engrenagem",
                 FullMoon = "Lua Cheia!",
                 RequireThirdSea = "Requer Terceiro Mar!",
-                Moon = "Estado da Lua"
+                Moon = "Estado da Lua",
+                AutoTrial = "Auto Trial"
             },
             Ai = {
                 KaitunFull = "Farm Completa",
