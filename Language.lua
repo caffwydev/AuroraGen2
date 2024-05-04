@@ -614,7 +614,8 @@ _G.AuroraLang = {
                     Melee = "Estilo de Luta",
                     Guns = "Armas",
                     Swords = "Espadas",
-                    Misc = "Outros"
+                    Misc = "Outros",
+                    Accessories = "Acessórios"
                 },
                 Geppo = "Comprar Geppo",
                 Buso = "Comprar Buso",
