@@ -320,6 +320,15 @@ _G.AuroraLang = {
                 },
                 Select = "Select: ",
                 Amount = "Amount: "
+            },
+            Mastery = {
+                Sections = {
+                    Hold = "Hold Time",
+                    Use = "Habilities"
+                },
+                Enable = "Farm Mastery",
+                Distance = "Distance",
+                Percent = "Health Percentage"
             }
         },
         Notifications = {
@@ -651,6 +660,15 @@ _G.AuroraLang = {
                 },
                 Select = "Selecionar: ",
                 Amount = "Quantidade: "
+            },
+            Mastery = {
+                Sections = {
+                    Hold = "Tempo Segurando",
+                    Use = "Habilidades"
+                },
+                Enable = "Farmar Mastria",
+                Distance = "Distância",
+                Percent = "Porcentagem da Vida"
             }
         },
         Notifications = {
