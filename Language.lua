@@ -90,7 +90,9 @@ _G.AuroraLang = {
                 AutoDeathStepHop = "Death Step Hop",
                 AutoSharkman = "Auto Sharkman",
                 AutoSharkmanHop = "Sharkman Hop",
-                AutoElectricClaw = "Auto Electric Claw"
+                AutoElectricClaw = "Auto Electric Claw",
+                AutoDragonTalon = "Auto Dragon Talon",
+                AutoGodHuman = "Auto God Human"
             },
             Config = {
                 Sections = {
@@ -414,7 +416,9 @@ _G.AuroraLang = {
                 AutoDeathStepHop = "Passo Mortal Hop",
                 AutoSharkman = "Auto Sharkman",
                 AutoSharkmanHop = "Sharkman Hop",
-                AutoElectricClaw = "Auto Garra Elétrica"
+                AutoElectricClaw = "Auto Garra Elétrica",
+                AutoDragonTalon = "Auto Garra do Dragão",
+                AutoGodHuman = "Auto Deus Humano"
             },
             Config = {
                 Sections = {
