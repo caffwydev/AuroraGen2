@@ -113,7 +113,8 @@ _G.AuroraLang = {
                 RTP = "Random Teleport Offset",
                 BoatModSpeed1 = "Speed",
                 BoatModSpeed2 = "Fast Boats",
-                AutoRejoin = "Auto Rejoin"
+                AutoRejoin = "Auto Rejoin",
+                TweenSpeed = "Tween Speed"
             },
             Fruit = {
                 RandomFruit = "Roll Fruit",
@@ -456,7 +457,8 @@ _G.AuroraLang = {
                 RTP = "Distância do Mob Aleatória",
                 BoatModSpeed1 = "Velocidade",
                 BoatModSpeed2 = "Barcos Rápidos",
-                AutoRejoin = "Auto Re-entrar"
+                AutoRejoin = "Auto Re-entrar",
+                TweenSpeed = "Velocidade do Movimento"
             },
             Fruit = {
                 RandomFruit = "Girar Fruta",
