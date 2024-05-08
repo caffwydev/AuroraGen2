@@ -193,7 +193,8 @@ _G.AuroraLang = {
                     GUI = "Interface",
                     Enhancements = "Enhancements",
                     Boat = "Boat Mods",
-                    LocalPlayer = "Player"
+                    LocalPlayer = "Player",
+                    Team = "Team"
                 },
                 Code = "Redeem All Codes",
                 Hop = "Hop Empty Server",
@@ -216,7 +217,9 @@ _G.AuroraLang = {
                 Notifications = "Notifications (Game)",
                 WhiteScreen = "White Screen",
                 DisableMaterials = "Disable Materials",
-                InvisibleMap = "Invisible Map"
+                InvisibleMap = "Invisible Map",
+                TeamPirate = "Pirates",
+                TeamMarines = "Marines"
             },
             TP = {
                 Sea1 = "Main Sea",
@@ -458,7 +461,7 @@ _G.AuroraLang = {
                 BoatModSpeed1 = "Velocidade",
                 BoatModSpeed2 = "Barcos Rápidos",
                 AutoRejoin = "Auto Re-entrar",
-                TweenSpeed = "Velocidade do Movimento"
+                TweenSpeed = "Velocidade"
             },
             Fruit = {
                 RandomFruit = "Girar Fruta",
@@ -537,7 +540,8 @@ _G.AuroraLang = {
                     GUI = "Interface",
                     Enhancements = "Melhoras",
                     Boat = "Modificações de Barcos",
-                    LocalPlayer = "Jogador"
+                    LocalPlayer = "Jogador",
+                    Team = "Time"
                 },
                 Code = "Resgatar todos os códigos",
                 Hop = "Servidor Vazio",
@@ -560,7 +564,9 @@ _G.AuroraLang = {
                 Notifications = "Notificações (Jogo)",
                 WhiteScreen = "White Screen",
                 DisableMaterials = "Disable Materials",
-                InvisibleMap = "Invisible Map"
+                InvisibleMap = "Invisible Map",
+                TeamPirate = "Pirates",
+                TeamMarines = "Marines"
             },
             TP = {
                 Sea1 = "Sea Principal",
