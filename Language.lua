@@ -1,6 +1,5 @@
 local Language = {}
 
-_G.Lang = "PT";
 local LanguagePack = {};
 function LanguagePack.LoadBranch(Branch)
 	Language = {
